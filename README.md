@@ -13,7 +13,6 @@ The authors (**Valentin Zelenyuk and Shirong Zhao**) retain full rights to this 
 
 
 4. In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation:
-   
    # Valentin, Zelenyuk & Shirong Zhao (2026). Statistical Inference for Price or Quantity Indices.
 
 
