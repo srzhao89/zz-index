@@ -12,8 +12,8 @@ The authors (**Valentin Zelenyuk and Shirong Zhao**) retain full rights to this 
 3. The code is provided "as is," without any warranty, whether express or implied. The authors disclaim all liability for any losses or damages (including direct, indirect, special, or consequential losses or damages, as well as any other losses or damages) arising from your use of the code.
 
 
-4. In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation: [Valentin, Zelenyuk & Shirong Zhao (2026). Statistical Inference for 
-Price or Quantity Indices.]
+4. In any report, paper, or publication referencing the code, you are required to acknowledge its ownership by including the following citation:
+   Valentin, Zelenyuk & Shirong Zhao (2026). Statistical Inference for Price or Quantity Indices.
 
 
 6. The programming code used in this paper involves some earlier codes from Paul Wilson. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
