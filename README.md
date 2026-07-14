@@ -16,5 +16,14 @@ The authors (**Valentin Zelenyuk and Shirong Zhao**) retain full rights to this 
    **Valentin, Zelenyuk & Shirong Zhao (2026). Statistical Inference for Price or Quantity Indices.**
 
 
-6. The programming code used in this paper involves some earlier codes from Paul Wilson. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
+5. All rights reserved. It is free for academic use only with adequate citation and acknowledgments. For any other use, contact Shirong Zhao: shironz@163.com.
+
+
+**All-LM.R** performs the MC simulations to examine whether the estimated confidence intervals based on the CLT results for the Fisher (and other) price index successfully contain the true COLI value (under the CES assumption).
+**All-LM-coverage-plot.R**  plots the empirical coverages obtained by **All-LM.R**.
+**All-LM-combining-files.R** combine the various files obtained by **All-LM.R**.
+
+**All.R** performs the MC simulations to examine whether the estimated confidence intervals based on the CLT results for the Fisher (and other) price index successfully contain the population value of the Fisher (and other) price index.
+**All-coverage-plot.R**  plots the empirical coverages obtained by **All.R**.
+**All-combining-files.R** combine the various files obtained by **All.R**.
 
