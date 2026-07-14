@@ -20,10 +20,14 @@ The authors (**Valentin Zelenyuk and Shirong Zhao**) retain full rights to this 
 
 
 **All-LM.R** performs the MC simulations to examine whether the estimated confidence intervals based on the CLT results for the Fisher (and other) price index successfully contain the true COLI value (under the CES assumption).
+
 **All-LM-coverage-plot.R**  plots the empirical coverages obtained by **All-LM.R**.
+
 **All-LM-combining-files.R** combine the various files obtained by **All-LM.R**.
 
 **All.R** performs the MC simulations to examine whether the estimated confidence intervals based on the CLT results for the Fisher (and other) price index successfully contain the population value of the Fisher (and other) price index.
+
 **All-coverage-plot.R**  plots the empirical coverages obtained by **All.R**.
+
 **All-combining-files.R** combine the various files obtained by **All.R**.
 
